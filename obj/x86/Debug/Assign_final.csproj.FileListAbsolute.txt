@@ -1,0 +1,12 @@
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\bin\Debug\Assign_final.exe
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\bin\Debug\Assign_final.pdb
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.aNewPlayer.resources
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.initwin.resources
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.Properties.Resources.resources
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.exe
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.pdb
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.GameForm.resources
+e:\users\iz\documents\visual studio 2010\Projects\Assign_final\Assign_final\obj\x86\Debug\Assign_final.Game_end.resources
